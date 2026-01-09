@@ -1,0 +1,4 @@
+*.class
+*.pdf
+*.ppt
+!lab_manual-MCA-26-Java.pdf
