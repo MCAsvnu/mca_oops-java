@@ -50,8 +50,8 @@ class StackDemo {
         Stack s = new Stack(sc.nextInt());
 
         int choice;
+        System.out.println("\n1.push\n2.pop\n3.display\n0.exit");
         do {
-            System.out.println("\n1.push\n2.pop\n3.display\n0.exit");
             System.out.print("enter choice: ");
             choice = sc.nextInt();
 
